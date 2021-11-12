@@ -1,7 +1,7 @@
 Dados do aluno
 
 -Primeiro Nome: Simone
--Profissão: Engenheira de Qualidade
+-Profissão: Engenheira de Qualidade de Software
 -Cidade: Barueri
 -O que faz nas horas vaga: Estudo o curso da EBAC
 -Feedback sobre o curso Qualidade de Software: Está bem desafiador, porém estou me construindo a cada dia que vou aprendendo
